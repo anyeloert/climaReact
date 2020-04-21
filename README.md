@@ -1,3 +1,6 @@
+Tecnologías utilizadas:
+-Materialize
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Link del Proyecto https://focused-shaw-a8c4b9.netlify.com
